@@ -1,0 +1,1426 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahuachapán",
+        "id": "ahuachapan",
+        "code": "AH",
+        "capital": "Ahuachapán",
+        "cardImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop",
+        "description": "Known as the 'City of Flowers' and famous for its coffee production, thermal springs, and beautiful mountain landscapes.",
+        "location": {
+          "region": "Western Region",
+          "coordinates": "13.9200° N, 89.8500° W",
+          "area": "1,239.6 km²"
+        },
+        "climate": {
+          "temperature": "18-28°C (64-82°F)",
+          "rainfall": "1,500-2,000 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "319,500",
+          "municipalities": "12",
+          "elevation": "785 m (2,575 ft)"
+        },
+        "bestTimeToVisit": "November to April (Dry season)",
+        "highlights": [
+          "Los Ausoles - Natural thermal springs",
+          "Coffee Plantations - World-renowned coffee tours",
+          "Apaneca - Mountain town with cool climate"
+        ],
+        "placesToVisit": [
+          {
+            "name": "Los Ausoles Thermal Springs",
+            "description": "Natural geothermal springs perfect for relaxation and therapeutic benefits.",
+            "location": "Ahuachapán",
+            "coordinates": "13.9200° N, 89.8500° W",
+            "category": "Nature",
+            "rating": "4.6"
+          },
+          {
+            "name": "Apaneca",
+            "description": "Charming mountain town known for its cool climate and coffee culture.",
+            "location": "Apaneca",
+            "coordinates": "13.8583° N, 89.8167° W",
+            "category": "Culture",
+            "rating": "4.7"
+          }
+        ],
+        "activities": {
+          "adventure": [
+            {
+              "name": "Coffee Plantation Tours",
+              "description": "Explore coffee farms and learn about the coffee production process.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Tours",
+              "bestTime": "Morning (8-11 AM)",
+              "location": "Various plantations"
+            },
+            {
+              "name": "Mountain Hiking",
+              "description": "Scenic hiking trails through coffee plantations and cloud forests.",
+              "difficulty": "Medium",
+              "duration": "3-4 hours",
+              "category": "Hiking",
+              "bestTime": "Early morning (6-9 AM)",
+              "location": "Apaneca area"
+            }
+          ],
+          "culture": [
+            {
+              "name": "Local Markets",
+              "description": "Traditional markets with local crafts and fresh produce.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Shopping",
+              "bestTime": "Morning (7-11 AM)",
+              "location": "Ahuachapán"
+            }
+          ],
+          "food": [
+            {
+              "name": "Coffee Tasting",
+              "description": "Sample world-class Salvadoran coffee at local cafés.",
+              "difficulty": "Easy",
+              "duration": "1 hour",
+              "category": "Food Experience",
+              "bestTime": "Any time",
+              "location": "Ahuachapán and Apaneca"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Thermal Springs Visit",
+              "description": "Relax in natural hot springs with therapeutic properties.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Wellness",
+              "bestTime": "Afternoon (2-5 PM)",
+              "location": "Los Ausoles"
+            }
+          ]
+        },
+        "travelTips": [
+          "Bring warm clothing for mountain areas",
+          "Try the local coffee at traditional cafés",
+          "Visit thermal springs for relaxation",
+          "Best time to visit is during dry season"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-90.05, 13.82], [-89.68, 13.82], [-89.68, 14.08], [-90.05, 14.08], [-90.05, 13.82]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabañas",
+        "id": "cabanas",
+        "code": "CA",
+        "capital": "Sensuntepeque",
+        "cardImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1920&h=1080&fit=crop",
+        "description": "A small departamento known for its agricultural production, traditional crafts, and peaceful rural landscapes.",
+        "location": {
+          "region": "Central Region",
+          "coordinates": "13.8667° N, 88.9333° W",
+          "area": "1,103.5 km²"
+        },
+        "climate": {
+          "temperature": "20-30°C (68-86°F)",
+          "rainfall": "1,400-1,800 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "149,300",
+          "municipalities": "9",
+          "elevation": "600 m (1,969 ft)"
+        },
+        "bestTimeToVisit": "November to April",
+        "highlights": [
+          "Sensuntepeque - Charming colonial town",
+          "Agricultural Tours - Coffee and sugar cane",
+          "Traditional Crafts - Local artisan workshops"
+        ],
+        "placesToVisit": [
+          {
+            "name": "Sensuntepeque",
+            "description": "The capital city with colonial architecture and traditional markets.",
+            "location": "Sensuntepeque",
+            "coordinates": "13.8667° N, 88.9333° W",
+            "category": "Culture",
+            "rating": "4.3"
+          }
+        ],
+        "activities": {
+          "culture": [
+            {
+              "name": "Colonial Architecture Tour",
+              "description": "Explore historic buildings and churches in Sensuntepeque.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Walking Tour",
+              "bestTime": "Morning (9-11 AM)",
+              "location": "Sensuntepeque"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Rural Landscape Tours",
+              "description": "Experience the peaceful countryside and agricultural areas.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Tours",
+              "bestTime": "Morning (8-11 AM)",
+              "location": "Various locations"
+            }
+          ]
+        },
+        "travelTips": [
+          "Visit local markets for traditional crafts",
+          "Explore the peaceful rural landscapes",
+          "Try local agricultural products"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-88.88, 13.72], [-88.52, 13.72], [-88.52, 14.02], [-88.88, 14.02], [-88.88, 13.72]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chalatenango",
+        "id": "chalatenango",
+        "code": "CH",
+        "capital": "Chalatenango",
+        "cardImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop",
+        "description": "Known for its cool mountain climate, hiking trails, and the highest point in El Salvador, El Pital.",
+        "location": {
+          "region": "Northern Region",
+          "coordinates": "14.0333° N, 88.9333° W",
+          "area": "2,017.0 km²"
+        },
+        "climate": {
+          "temperature": "15-25°C (59-77°F)",
+          "rainfall": "1,800-2,200 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "192,800",
+          "municipalities": "33",
+          "elevation": "2,730 m (8,957 ft) at El Pital"
+        },
+        "bestTimeToVisit": "November to April (Cooler months)",
+        "highlights": [
+          "El Pital - Highest peak in El Salvador",
+          "La Palma - Artisan village famous for crafts",
+          "Mountain Hiking - Scenic trails and cool climate"
+        ],
+        "placesToVisit": [
+          {
+            "name": "El Pital",
+            "description": "The highest point in El Salvador at 2,730 meters, offering stunning views and cool temperatures.",
+            "location": "San Ignacio",
+            "coordinates": "14.3833° N, 89.1167° W",
+            "category": "Nature",
+            "rating": "4.8"
+          },
+          {
+            "name": "La Palma",
+            "description": "Famous artisan village known for colorful handcrafted items and traditional art.",
+            "location": "La Palma",
+            "coordinates": "14.3167° N, 89.1667° W",
+            "category": "Culture",
+            "rating": "4.6"
+          }
+        ],
+        "activities": {
+          "adventure": [
+            {
+              "name": "Hike to El Pital",
+              "description": "Challenging hike to the highest point in El Salvador with breathtaking views.",
+              "difficulty": "Hard",
+              "duration": "4-6 hours",
+              "category": "Hiking",
+              "bestTime": "Early morning (5-8 AM)",
+              "location": "El Pital",
+              "coordinates": "14.3833° N, 89.1167° W"
+            },
+            {
+              "name": "Mountain Biking",
+              "description": "Explore mountain trails on bike through cool pine forests.",
+              "difficulty": "Medium",
+              "duration": "2-4 hours",
+              "category": "Cycling",
+              "bestTime": "Morning (7-11 AM)",
+              "location": "Various trails"
+            }
+          ],
+          "culture": [
+            {
+              "name": "La Palma Artisan Tour",
+              "description": "Visit workshops and learn about traditional Salvadoran crafts.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Cultural Tour",
+              "bestTime": "Morning (9 AM-12 PM)",
+              "location": "La Palma"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Cloud Forest Exploration",
+              "description": "Explore unique cloud forest ecosystems with diverse flora and fauna.",
+              "difficulty": "Medium",
+              "duration": "3-4 hours",
+              "category": "Nature Walk",
+              "bestTime": "Early morning (6-9 AM)",
+              "location": "El Pital area"
+            }
+          ]
+        },
+        "travelTips": [
+          "Bring warm clothing - temperatures can drop significantly",
+          "Best for hiking and outdoor activities",
+          "Visit La Palma for unique artisan crafts",
+          "El Pital can be foggy - check weather conditions"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-89.18, 14.02], [-88.85, 14.02], [-88.85, 14.38], [-89.18, 14.38], [-89.18, 14.02]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuscatlán",
+        "id": "cuscatlan",
+        "code": "CU",
+        "capital": "Cojutepeque",
+        "cardImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1920&h=1080&fit=crop",
+        "description": "A central departamento known for its agricultural production, traditional festivals, and proximity to San Salvador.",
+        "location": {
+          "region": "Central Region",
+          "coordinates": "13.7167° N, 88.9333° W",
+          "area": "756.2 km²"
+        },
+        "climate": {
+          "temperature": "20-30°C (68-86°F)",
+          "rainfall": "1,600-2,000 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "231,500",
+          "municipalities": "16",
+          "elevation": "850 m (2,789 ft)"
+        },
+        "bestTimeToVisit": "November to April",
+        "highlights": [
+          "Cojutepeque - Traditional market town",
+          "Agricultural Tours - Coffee and sugar production",
+          "Local Festivals - Colorful cultural celebrations"
+        ],
+        "placesToVisit": [
+          {
+            "name": "Cojutepeque",
+            "description": "The capital city with traditional markets and colonial architecture.",
+            "location": "Cojutepeque",
+            "coordinates": "13.7167° N, 88.9333° W",
+            "category": "Culture",
+            "rating": "4.2"
+          }
+        ],
+        "activities": {
+          "culture": [
+            {
+              "name": "Traditional Market Visit",
+              "description": "Explore local markets with fresh produce and crafts.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Shopping",
+              "bestTime": "Morning (7-11 AM)",
+              "location": "Cojutepeque"
+            }
+          ],
+          "food": [
+            {
+              "name": "Local Cuisine",
+              "description": "Try traditional Salvadoran dishes at local restaurants.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Dining",
+              "bestTime": "Lunch or dinner",
+              "location": "Various locations"
+            }
+          ]
+        },
+        "travelTips": [
+          "Visit during local festivals for cultural experiences",
+          "Try local agricultural products",
+          "Explore traditional markets"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-89.08, 13.62], [-88.72, 13.62], [-88.72, 13.98], [-89.08, 13.98], [-89.08, 13.62]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Libertad",
+        "id": "la-libertad",
+        "code": "LI",
+        "capital": "Santa Tecla",
+        "cardImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop",
+        "description": "Known for its beautiful beaches and surf culture, La Libertad is a paradise for surfers and beach lovers.",
+        "location": {
+          "region": "Central Region",
+          "coordinates": "13.4833° N, 89.3167° W",
+          "area": "1,652.9 km²"
+        },
+        "climate": {
+          "temperature": "22-32°C (72-90°F)",
+          "rainfall": "1,200-1,800 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "747,600",
+          "municipalities": "22",
+          "elevation": "Sea level to 1,000 m"
+        },
+        "bestTimeToVisit": "Year-round, best surfing Nov-Apr",
+        "highlights": [
+          "El Tunco Beach - World-class surfing",
+          "El Zonte - Relaxed beach town",
+          "La Libertad Port - Fresh seafood"
+        ],
+        "placesToVisit": [
+          {
+            "name": "El Tunco Beach",
+            "description": "Popular surf spot with black sand beaches, great waves, and vibrant nightlife.",
+            "location": "El Tunco",
+            "coordinates": "13.4833° N, 89.3167° W",
+            "category": "Beach",
+            "rating": "4.8",
+            "distance": "35 km from San Salvador"
+          },
+          {
+            "name": "El Zonte",
+            "description": "Relaxed beach town perfect for surfing, yoga, and beach relaxation.",
+            "location": "El Zonte",
+            "coordinates": "13.5000° N, 89.3000° W",
+            "category": "Beach",
+            "rating": "4.7"
+          },
+          {
+            "name": "La Libertad Port",
+            "description": "Fishing port with fresh seafood restaurants and local markets.",
+            "location": "La Libertad",
+            "coordinates": "13.4833° N, 89.3167° W",
+            "category": "Culture",
+            "rating": "4.5"
+          }
+        ],
+        "activities": {
+          "beaches": [
+            {
+              "name": "Surfing at El Tunco",
+              "description": "World-class surf breaks suitable for all levels, with consistent waves year-round.",
+              "difficulty": "Beginner to Advanced",
+              "duration": "2-4 hours",
+              "category": "Water Sports",
+              "bestTime": "Early morning or late afternoon",
+              "location": "El Tunco Beach",
+              "coordinates": "13.4833° N, 89.3167° W"
+            },
+            {
+              "name": "Beach Relaxation",
+              "description": "Enjoy black sand beaches and Pacific Ocean views.",
+              "difficulty": "Easy",
+              "duration": "Half day",
+              "category": "Relaxation",
+              "bestTime": "Morning or afternoon",
+              "location": "Various beaches"
+            }
+          ],
+          "adventure": [
+            {
+              "name": "Surf Lessons",
+              "description": "Learn to surf at world-renowned breaks with professional instructors.",
+              "difficulty": "Beginner to Advanced",
+              "duration": "2-3 hours",
+              "category": "Water Sports",
+              "bestTime": "Morning (7-10 AM)",
+              "location": "El Tunco and El Zonte"
+            },
+            {
+              "name": "Yoga on the Beach",
+              "description": "Morning yoga sessions on the beach with ocean views.",
+              "difficulty": "Easy",
+              "duration": "1 hour",
+              "category": "Wellness",
+              "bestTime": "Early morning (6-7 AM)",
+              "location": "El Zonte"
+            }
+          ],
+          "culture": [
+            {
+              "name": "Local Markets",
+              "description": "Traditional crafts and local produce at port markets.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Shopping",
+              "bestTime": "Morning (7-11 AM)",
+              "location": "La Libertad Port"
+            }
+          ],
+          "food": [
+            {
+              "name": "Fresh Seafood",
+              "description": "Enjoy fresh fish, ceviche, and seafood at port restaurants.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Dining",
+              "bestTime": "Lunch or dinner",
+              "location": "La Libertad Port"
+            },
+            {
+              "name": "Beachside Dining",
+              "description": "Dine at beachfront restaurants with ocean views.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Dining",
+              "bestTime": "Sunset (5-7 PM)",
+              "location": "El Tunco and El Zonte"
+            }
+          ]
+        },
+        "travelTips": [
+          "Rent a board at El Tunco for surfing",
+          "Try the pupusas at local stands",
+          "Visit on weekends for nightlife",
+          "Bring sunscreen and beach essentials",
+          "Best waves are early morning and late afternoon"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-89.52, 13.32], [-89.12, 13.32], [-89.12, 13.68], [-89.52, 13.68], [-89.52, 13.32]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Paz",
+        "id": "la-paz",
+        "code": "PA",
+        "capital": "Zacatecoluca",
+        "cardImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop",
+        "description": "A coastal departamento known for its beaches, agricultural production, and traditional Salvadoran culture.",
+        "location": {
+          "region": "Central Region",
+          "coordinates": "13.5000° N, 88.8667° W",
+          "area": "1,223.6 km²"
+        },
+        "climate": {
+          "temperature": "22-32°C (72-90°F)",
+          "rainfall": "1,400-1,800 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "328,200",
+          "municipalities": "22",
+          "elevation": "200 m (656 ft)"
+        },
+        "bestTimeToVisit": "November to April",
+        "highlights": [
+          "Zacatecoluca - Traditional market town",
+          "Coastal Areas - Beautiful beaches",
+          "Agricultural Tours - Sugar cane and cotton"
+        ],
+        "placesToVisit": [
+          {
+            "name": "Zacatecoluca",
+            "description": "The capital city with traditional markets and colonial architecture.",
+            "location": "Zacatecoluca",
+            "coordinates": "13.5000° N, 88.8667° W",
+            "category": "Culture",
+            "rating": "4.2"
+          }
+        ],
+        "activities": {
+          "culture": [
+            {
+              "name": "Market Tours",
+              "description": "Explore traditional markets with local products and crafts.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Shopping",
+              "bestTime": "Morning (7-11 AM)",
+              "location": "Zacatecoluca"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Agricultural Tours",
+              "description": "Learn about sugar cane and cotton production.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Tours",
+              "bestTime": "Morning (8-11 AM)",
+              "location": "Various farms"
+            }
+          ]
+        },
+        "travelTips": [
+          "Visit local markets for traditional products",
+          "Explore the coastal areas",
+          "Try local agricultural products"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-89.15, 13.32], [-88.72, 13.32], [-88.72, 13.68], [-89.15, 13.68], [-89.15, 13.32]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Unión",
+        "id": "la-union",
+        "code": "UN",
+        "capital": "La Unión",
+        "cardImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop",
+        "description": "A coastal departamento known for its port, beaches, and the Conchagua volcano with panoramic views.",
+        "location": {
+          "region": "Eastern Region",
+          "coordinates": "13.3333° N, 87.8333° W",
+          "area": "2,074.3 km²"
+        },
+        "climate": {
+          "temperature": "24-34°C (75-93°F)",
+          "rainfall": "1,200-1,600 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "238,200",
+          "municipalities": "18",
+          "elevation": "Sea level to 1,225 m"
+        },
+        "bestTimeToVisit": "November to April",
+        "highlights": [
+          "Conchagua Volcano - Panoramic views",
+          "La Unión Port - Commercial port",
+          "Beaches - Coastal relaxation"
+        ],
+        "placesToVisit": [
+          {
+            "name": "Conchagua Volcano",
+            "description": "Active volcano offering stunning panoramic views of the Gulf of Fonseca.",
+            "location": "Conchagua",
+            "coordinates": "13.2833° N, 87.8500° W",
+            "category": "Nature",
+            "rating": "4.7"
+          },
+          {
+            "name": "La Unión Port",
+            "description": "Important commercial port with fishing activities and seafood restaurants.",
+            "location": "La Unión",
+            "coordinates": "13.3333° N, 87.8333° W",
+            "category": "Culture",
+            "rating": "4.3"
+          }
+        ],
+        "activities": {
+          "adventure": [
+            {
+              "name": "Conchagua Volcano Hike",
+              "description": "Challenging hike to the summit with breathtaking views of the Gulf of Fonseca.",
+              "difficulty": "Hard",
+              "duration": "4-5 hours",
+              "category": "Hiking",
+              "bestTime": "Early morning (5-8 AM)",
+              "location": "Conchagua Volcano",
+              "coordinates": "13.2833° N, 87.8500° W"
+            }
+          ],
+          "beaches": [
+            {
+              "name": "Beach Relaxation",
+              "description": "Enjoy beautiful beaches along the Pacific coast.",
+              "difficulty": "Easy",
+              "duration": "Half day",
+              "category": "Relaxation",
+              "bestTime": "Morning or afternoon",
+              "location": "Various beaches"
+            }
+          ],
+          "food": [
+            {
+              "name": "Fresh Seafood",
+              "description": "Enjoy fresh seafood at port restaurants.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Dining",
+              "bestTime": "Lunch or dinner",
+              "location": "La Unión Port"
+            }
+          ]
+        },
+        "travelTips": [
+          "Hike Conchagua early morning for best views",
+          "Try fresh seafood at the port",
+          "Bring water and sun protection for hikes",
+          "Best weather is during dry season"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-88.05, 13.12], [-87.68, 13.12], [-87.68, 13.48], [-88.05, 13.48], [-88.05, 13.12]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morazán",
+        "id": "morazan",
+        "code": "MO",
+        "capital": "San Francisco Gotera",
+        "cardImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop",
+        "description": "Known for its historical significance, mountain landscapes, and traditional Salvadoran culture.",
+        "location": {
+          "region": "Eastern Region",
+          "coordinates": "13.7000° N, 88.1000° W",
+          "area": "1,447.4 km²"
+        },
+        "climate": {
+          "temperature": "20-30°C (68-86°F)",
+          "rainfall": "1,600-2,000 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "174,400",
+          "municipalities": "26",
+          "elevation": "600-1,200 m"
+        },
+        "bestTimeToVisit": "November to April",
+        "highlights": [
+          "Perquín - Historical significance",
+          "Mountain Landscapes - Scenic views",
+          "Traditional Culture - Local festivals"
+        ],
+        "placesToVisit": [
+          {
+            "name": "Perquín",
+            "description": "Historical town with museums and memorials from the civil war period.",
+            "location": "Perquín",
+            "coordinates": "13.9333° N, 88.0500° W",
+            "category": "History",
+            "rating": "4.5"
+          }
+        ],
+        "activities": {
+          "history": [
+            {
+              "name": "Historical Museum Visit",
+              "description": "Learn about El Salvador's history at the Museum of the Revolution.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Museum",
+              "bestTime": "Morning (9 AM-12 PM)",
+              "location": "Perquín"
+            }
+          ],
+          "culture": [
+            {
+              "name": "Traditional Festivals",
+              "description": "Experience local festivals and cultural celebrations.",
+              "difficulty": "Easy",
+              "duration": "Half day",
+              "category": "Cultural Event",
+              "bestTime": "Check local calendar",
+              "location": "Various towns"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Mountain Scenic Drives",
+              "description": "Enjoy scenic drives through mountain landscapes.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Sightseeing",
+              "bestTime": "Morning or afternoon",
+              "location": "Various routes"
+            }
+          ]
+        },
+        "travelTips": [
+          "Visit historical sites to learn about El Salvador's past",
+          "Attend local festivals for cultural experiences",
+          "Enjoy the mountain scenery"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-88.25, 13.62], [-87.92, 13.62], [-87.92, 13.98], [-88.25, 13.98], [-88.25, 13.62]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Miguel",
+        "id": "san-miguel",
+        "code": "SM",
+        "capital": "San Miguel",
+        "cardImage": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1920&h=1080&fit=crop",
+        "description": "The second largest city in El Salvador, known for its vibrant culture, festivals, and the San Miguel volcano.",
+        "location": {
+          "region": "Eastern Region",
+          "coordinates": "13.4833° N, 88.1833° W",
+          "area": "2,077.1 km²"
+        },
+        "climate": {
+          "temperature": "22-32°C (72-90°F)",
+          "rainfall": "1,400-1,800 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "478,800",
+          "municipalities": "20",
+          "elevation": "129 m (423 ft)"
+        },
+        "bestTimeToVisit": "November to April, especially during November festivals",
+        "highlights": [
+          "San Miguel City - Vibrant urban center",
+          "San Miguel Volcano - Active volcano",
+          "November Festivals - Colorful cultural celebrations"
+        ],
+        "placesToVisit": [
+          {
+            "name": "San Miguel City",
+            "description": "The second largest city with vibrant markets, restaurants, and cultural sites.",
+            "location": "San Miguel",
+            "coordinates": "13.4833° N, 88.1833° W",
+            "category": "Culture",
+            "rating": "4.4"
+          },
+          {
+            "name": "San Miguel Volcano",
+            "description": "Active volcano offering hiking opportunities and panoramic views.",
+            "location": "San Miguel",
+            "coordinates": "13.4333° N, 88.2667° W",
+            "category": "Nature",
+            "rating": "4.6"
+          }
+        ],
+        "activities": {
+          "adventure": [
+            {
+              "name": "Volcano Hiking",
+              "description": "Hike around the San Miguel volcano with guided tours.",
+              "difficulty": "Medium",
+              "duration": "3-4 hours",
+              "category": "Hiking",
+              "bestTime": "Early morning (6-9 AM)",
+              "location": "San Miguel Volcano"
+            }
+          ],
+          "culture": [
+            {
+              "name": "November Festivals",
+              "description": "Experience the famous November festivals with parades, music, and food.",
+              "difficulty": "Easy",
+              "duration": "Full day",
+              "category": "Festival",
+              "bestTime": "November",
+              "location": "San Miguel City"
+            },
+            {
+              "name": "City Markets",
+              "description": "Explore vibrant markets with local products and crafts.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Shopping",
+              "bestTime": "Morning (7-11 AM)",
+              "location": "San Miguel City"
+            }
+          ],
+          "food": [
+            {
+              "name": "Local Cuisine",
+              "description": "Try traditional Salvadoran dishes at local restaurants.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Dining",
+              "bestTime": "Lunch or dinner",
+              "location": "San Miguel City"
+            }
+          ]
+        },
+        "travelTips": [
+          "Visit during November for the famous festivals",
+          "Try local street food",
+          "Explore the city markets",
+          "Hike the volcano early morning for best weather"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-88.35, 13.32], [-87.98, 13.32], [-87.98, 13.68], [-88.35, 13.68], [-88.35, 13.32]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Salvador",
+        "id": "san-salvador",
+        "code": "SS",
+        "capital": "San Salvador",
+        "cardImage": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1920&h=1080&fit=crop",
+        "description": "The capital and largest city of El Salvador, a vibrant urban center with rich history, culture, and modern amenities.",
+        "location": {
+          "region": "Central Region",
+          "coordinates": "13.6929° N, 89.2182° W",
+          "area": "886.2 km²"
+        },
+        "climate": {
+          "temperature": "20-30°C (68-86°F)",
+          "rainfall": "1,800-2,000 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "2.4 million",
+          "municipalities": "19",
+          "elevation": "658 m (2,159 ft)"
+        },
+        "bestTimeToVisit": "November to April (Dry season)",
+        "highlights": [
+          "Historic Downtown - Colonial architecture and museums",
+          "El Boquerón - Volcanic crater with hiking trails",
+          "Mercado Central - Traditional market experience"
+        ],
+        "placesToVisit": [
+          {
+            "name": "El Boquerón National Park",
+            "description": "A stunning volcanic crater with hiking trails and panoramic views of San Salvador.",
+            "location": "San Salvador",
+            "coordinates": "13.7231° N, 89.2906° W",
+            "category": "Nature",
+            "rating": "4.8",
+            "distance": "15 km from city center"
+          },
+          {
+            "name": "Historic Downtown",
+            "description": "Colonial architecture, cathedrals, and museums showcasing El Salvador's history.",
+            "location": "San Salvador",
+            "coordinates": "13.6929° N, 89.2182° W",
+            "category": "History",
+            "rating": "4.6"
+          },
+          {
+            "name": "Mercado Central",
+            "description": "Traditional market with local crafts, food, and authentic Salvadoran culture.",
+            "location": "San Salvador",
+            "coordinates": "13.6929° N, 89.2182° W",
+            "category": "Culture",
+            "rating": "4.5"
+          }
+        ],
+        "activities": {
+          "adventure": [
+            {
+              "name": "Hiking El Boquerón",
+              "description": "Explore the volcanic crater with guided hiking tours and scenic viewpoints.",
+              "difficulty": "Medium",
+              "duration": "2-3 hours",
+              "category": "Hiking",
+              "bestTime": "Early morning (6-9 AM)",
+              "location": "El Boquerón National Park",
+              "coordinates": "13.7231° N, 89.2906° W"
+            }
+          ],
+          "culture": [
+            {
+              "name": "Museo Nacional de Antropología",
+              "description": "Learn about El Salvador's rich history and culture through extensive exhibits.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Museum",
+              "bestTime": "Tuesday-Sunday, 9 AM-5 PM",
+              "location": "San Salvador"
+            },
+            {
+              "name": "Historic Downtown Walking Tour",
+              "description": "Explore colonial architecture, cathedrals, and historic buildings.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Walking Tour",
+              "bestTime": "Morning (9 AM-12 PM)",
+              "location": "Historic Downtown"
+            }
+          ],
+          "food": [
+            {
+              "name": "Pupusa Tasting Tour",
+              "description": "Experience authentic Salvadoran cuisine with a guided food tour through local markets.",
+              "difficulty": "Easy",
+              "duration": "3-4 hours",
+              "category": "Food Tour",
+              "bestTime": "Evening (5-9 PM)",
+              "location": "Mercado Central"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Bird Watching",
+              "description": "Observe diverse bird species in natural habitats around the city.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Wildlife",
+              "bestTime": "Early morning (6-8 AM)",
+              "location": "Various locations"
+            }
+          ],
+          "history": [
+            {
+              "name": "Museum Tours",
+              "description": "Visit multiple museums showcasing El Salvador's history and culture.",
+              "difficulty": "Easy",
+              "duration": "2-4 hours",
+              "category": "Museum",
+              "bestTime": "Morning (9 AM-1 PM)",
+              "location": "Various museums"
+            }
+          ]
+        },
+        "travelTips": [
+          "Best time to visit is during dry season",
+          "Bring sunscreen and light clothing",
+          "Try local pupusas at traditional markets",
+          "Visit El Boquerón early morning for best views",
+          "Use public transportation or taxis for city exploration"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-89.38, 13.58], [-89.08, 13.58], [-89.08, 13.88], [-89.38, 13.88], [-89.38, 13.58]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Vicente",
+        "id": "san-vicente",
+        "code": "SV",
+        "capital": "San Vicente",
+        "cardImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop",
+        "description": "Known for the San Vicente volcano (Chinchontepec), agricultural production, and traditional Salvadoran culture.",
+        "location": {
+          "region": "Central Region",
+          "coordinates": "13.6333° N, 88.8000° W",
+          "area": "1,184.0 km²"
+        },
+        "climate": {
+          "temperature": "20-30°C (68-86°F)",
+          "rainfall": "1,600-2,000 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "174,500",
+          "municipalities": "13",
+          "elevation": "2,182 m (7,159 ft) at volcano summit"
+        },
+        "bestTimeToVisit": "November to April",
+        "highlights": [
+          "San Vicente Volcano - Hiking and views",
+          "San Vicente City - Traditional town",
+          "Agricultural Areas - Coffee and sugar production"
+        ],
+        "placesToVisit": [
+          {
+            "name": "San Vicente Volcano (Chinchontepec)",
+            "description": "The second highest volcano in El Salvador, offering challenging hikes and panoramic views.",
+            "location": "San Vicente",
+            "coordinates": "13.6000° N, 88.8500° W",
+            "category": "Nature",
+            "rating": "4.7"
+          },
+          {
+            "name": "San Vicente City",
+            "description": "Traditional town with colonial architecture and local markets.",
+            "location": "San Vicente",
+            "coordinates": "13.6333° N, 88.8000° W",
+            "category": "Culture",
+            "rating": "4.3"
+          }
+        ],
+        "activities": {
+          "adventure": [
+            {
+              "name": "Volcano Hiking",
+              "description": "Challenging hike to the summit of San Vicente volcano.",
+              "difficulty": "Hard",
+              "duration": "5-6 hours",
+              "category": "Hiking",
+              "bestTime": "Early morning (5-8 AM)",
+              "location": "San Vicente Volcano",
+              "coordinates": "13.6000° N, 88.8500° W"
+            }
+          ],
+          "culture": [
+            {
+              "name": "City Market Visit",
+              "description": "Explore traditional markets with local products.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Shopping",
+              "bestTime": "Morning (7-11 AM)",
+              "location": "San Vicente City"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Volcano Views",
+              "description": "Enjoy panoramic views from various viewpoints around the volcano.",
+              "difficulty": "Easy to Medium",
+              "duration": "2-3 hours",
+              "category": "Sightseeing",
+              "bestTime": "Morning (7-10 AM)",
+              "location": "Various viewpoints"
+            }
+          ]
+        },
+        "travelTips": [
+          "Volcano hike requires good physical condition",
+          "Start early morning for best weather",
+          "Bring plenty of water and snacks",
+          "Visit local markets for traditional products"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-88.98, 13.48], [-88.68, 13.48], [-88.68, 13.78], [-88.98, 13.78], [-88.98, 13.48]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Ana",
+        "id": "santa-ana",
+        "code": "SA",
+        "capital": "Santa Ana",
+        "cardImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop",
+        "description": "The second largest city and known for its coffee production, colonial architecture, and the Santa Ana volcano.",
+        "location": {
+          "region": "Western Region",
+          "coordinates": "14.0000° N, 89.5500° W",
+          "area": "2,023.2 km²"
+        },
+        "climate": {
+          "temperature": "18-28°C (64-82°F)",
+          "rainfall": "1,800-2,200 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "523,700",
+          "municipalities": "13",
+          "elevation": "665 m (2,182 ft)"
+        },
+        "bestTimeToVisit": "November to April",
+        "highlights": [
+          "Santa Ana City - Colonial architecture",
+          "Santa Ana Volcano - Hiking and views",
+          "Coffee Plantations - World-renowned coffee"
+        ],
+        "placesToVisit": [
+          {
+            "name": "Santa Ana Cathedral",
+            "description": "Beautiful neo-Gothic cathedral in the heart of the city.",
+            "location": "Santa Ana",
+            "coordinates": "14.0000° N, 89.5500° W",
+            "category": "History",
+            "rating": "4.7"
+          },
+          {
+            "name": "Santa Ana Volcano (Ilamatepec)",
+            "description": "Active volcano offering challenging hikes and stunning crater views.",
+            "location": "Santa Ana",
+            "coordinates": "13.8500° N, 89.6333° W",
+            "category": "Nature",
+            "rating": "4.8"
+          },
+          {
+            "name": "Coffee Plantations",
+            "description": "World-renowned coffee farms offering tours and tastings.",
+            "location": "Various locations",
+            "coordinates": "14.0000° N, 89.5500° W",
+            "category": "Culture",
+            "rating": "4.6"
+          }
+        ],
+        "activities": {
+          "adventure": [
+            {
+              "name": "Santa Ana Volcano Hike",
+              "description": "Challenging hike to the active volcano crater with turquoise lake views.",
+              "difficulty": "Hard",
+              "duration": "5-6 hours",
+              "category": "Hiking",
+              "bestTime": "Early morning (5-8 AM)",
+              "location": "Santa Ana Volcano",
+              "coordinates": "13.8500° N, 89.6333° W"
+            }
+          ],
+          "culture": [
+            {
+              "name": "Coffee Plantation Tours",
+              "description": "Learn about coffee production and sample world-class coffee.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Tours",
+              "bestTime": "Morning (8-11 AM)",
+              "location": "Various plantations"
+            },
+            {
+              "name": "Colonial Architecture Tour",
+              "description": "Explore historic buildings and the beautiful cathedral.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Walking Tour",
+              "bestTime": "Morning (9 AM-12 PM)",
+              "location": "Santa Ana City"
+            }
+          ],
+          "food": [
+            {
+              "name": "Coffee Tasting",
+              "description": "Sample premium Salvadoran coffee at local cafés.",
+              "difficulty": "Easy",
+              "duration": "1 hour",
+              "category": "Food Experience",
+              "bestTime": "Any time",
+              "location": "Santa Ana"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Volcano Crater Views",
+              "description": "Witness the stunning turquoise crater lake at the volcano summit.",
+              "difficulty": "Hard",
+              "duration": "5-6 hours",
+              "category": "Sightseeing",
+              "bestTime": "Early morning (5-8 AM)",
+              "location": "Santa Ana Volcano"
+            }
+          ]
+        },
+        "travelTips": [
+          "Volcano hike is challenging - prepare accordingly",
+          "Try the local coffee - it's world-renowned",
+          "Visit the cathedral in the city center",
+          "Best weather is during dry season",
+          "Start volcano hike very early morning"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-89.72, 13.92], [-89.38, 13.92], [-89.38, 14.28], [-89.72, 14.28], [-89.72, 13.92]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonsonate",
+        "id": "sonsonate",
+        "code": "SO",
+        "capital": "Sonsonate",
+        "cardImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1920&h=1080&fit=crop",
+        "description": "Known for its agricultural production, especially coffee and sugar, and proximity to beautiful beaches.",
+        "location": {
+          "region": "Western Region",
+          "coordinates": "13.7167° N, 89.7167° W",
+          "area": "1,225.8 km²"
+        },
+        "climate": {
+          "temperature": "20-30°C (68-86°F)",
+          "rainfall": "1,600-2,000 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "463,700",
+          "municipalities": "16",
+          "elevation": "225 m (738 ft)"
+        },
+        "bestTimeToVisit": "November to April",
+        "highlights": [
+          "Sonsonate City - Traditional market town",
+          "Coffee Plantations - Agricultural tours",
+          "Beach Access - Close to Pacific beaches"
+        ],
+        "placesToVisit": [
+          {
+            "name": "Sonsonate City",
+            "description": "Traditional city with vibrant markets and colonial architecture.",
+            "location": "Sonsonate",
+            "coordinates": "13.7167° N, 89.7167° W",
+            "category": "Culture",
+            "rating": "4.4"
+          }
+        ],
+        "activities": {
+          "culture": [
+            {
+              "name": "Market Tours",
+              "description": "Explore traditional markets with local products and crafts.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Shopping",
+              "bestTime": "Morning (7-11 AM)",
+              "location": "Sonsonate City"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Coffee Plantation Tours",
+              "description": "Learn about coffee production in the region.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Tours",
+              "bestTime": "Morning (8-11 AM)",
+              "location": "Various plantations"
+            }
+          ],
+          "food": [
+            {
+              "name": "Local Cuisine",
+              "description": "Try traditional Salvadoran dishes at local restaurants.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Dining",
+              "bestTime": "Lunch or dinner",
+              "location": "Sonsonate City"
+            }
+          ]
+        },
+        "travelTips": [
+          "Visit local markets for traditional products",
+          "Explore coffee plantations",
+          "Easy access to nearby beaches",
+          "Try local agricultural products"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-89.88, 13.58], [-89.58, 13.58], [-89.58, 13.88], [-89.88, 13.88], [-89.88, 13.58]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usulután",
+        "id": "usulutan",
+        "code": "US",
+        "capital": "Usulután",
+        "cardImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop",
+        "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop",
+        "description": "A coastal departamento known for its beaches, agricultural production, and the Usulután volcano.",
+        "location": {
+          "region": "Eastern Region",
+          "coordinates": "13.3500° N, 88.4500° W",
+          "area": "2,130.4 km²"
+        },
+        "climate": {
+          "temperature": "24-34°C (75-93°F)",
+          "rainfall": "1,200-1,600 mm annually",
+          "season": "Dry season: November-April"
+        },
+        "statistics": {
+          "population": "366,900",
+          "municipalities": "23",
+          "elevation": "Sea level to 1,449 m"
+        },
+        "bestTimeToVisit": "November to April",
+        "highlights": [
+          "Usulután City - Traditional market town",
+          "Beaches - Coastal relaxation",
+          "Agricultural Areas - Sugar and cotton production"
+        ],
+        "placesToVisit": [
+          {
+            "name": "Usulután City",
+            "description": "Traditional city with markets and local culture.",
+            "location": "Usulután",
+            "coordinates": "13.3500° N, 88.4500° W",
+            "category": "Culture",
+            "rating": "4.3"
+          }
+        ],
+        "activities": {
+          "beaches": [
+            {
+              "name": "Beach Relaxation",
+              "description": "Enjoy beautiful beaches along the Pacific coast.",
+              "difficulty": "Easy",
+              "duration": "Half day",
+              "category": "Relaxation",
+              "bestTime": "Morning or afternoon",
+              "location": "Various beaches"
+            }
+          ],
+          "culture": [
+            {
+              "name": "Market Tours",
+              "description": "Explore traditional markets with local products.",
+              "difficulty": "Easy",
+              "duration": "1-2 hours",
+              "category": "Shopping",
+              "bestTime": "Morning (7-11 AM)",
+              "location": "Usulután City"
+            }
+          ],
+          "nature": [
+            {
+              "name": "Agricultural Tours",
+              "description": "Learn about sugar and cotton production.",
+              "difficulty": "Easy",
+              "duration": "2-3 hours",
+              "category": "Tours",
+              "bestTime": "Morning (8-11 AM)",
+              "location": "Various farms"
+            }
+          ]
+        },
+        "travelTips": [
+          "Visit local markets for traditional products",
+          "Enjoy the coastal beaches",
+          "Try local agricultural products",
+          "Best weather is during dry season"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-88.65, 13.12], [-88.28, 13.12], [-88.28, 13.48], [-88.65, 13.48], [-88.65, 13.12]]]
+      }
+    }
+  ]
+}

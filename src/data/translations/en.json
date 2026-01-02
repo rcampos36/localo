@@ -1,0 +1,431 @@
+{
+  "nav": {
+    "departamentos": "Departamentos",
+    "features": "Features",
+    "about": "About",
+    "signIn": "Sign In",
+    "getStarted": "Get Started",
+    "logout": "Logout",
+    "dashboard": "Dashboard"
+  },
+  "home": {
+    "hero": {
+      "badge": "🇸🇻 Explore El Salvador",
+      "title": "Discover El Salvador,",
+      "titleHighlight": "One Departamento at a Time",
+      "description": "Explore all 14 departamentos of El Salvador. Discover each region's unique culture, history, and attractions.",
+      "exploreButton": "Explore Departamentos",
+      "learnMoreButton": "Learn More"
+    },
+    "departamentos": {
+      "badge": "Explore All Regions",
+      "title": "All 14 Departamentos",
+      "description": "Explore each departamento and discover unique attractions, culture, and activities",
+      "explore": "Explore",
+      "available": "Available to explore"
+    },
+    "features": {
+      "title": "Why Explore with Localo?",
+      "description": "Everything you need to discover El Salvador's rich culture and beautiful landscapes.",
+      "interactive": {
+        "title": "Interactive Exploration",
+        "description": "Navigate through all 14 departamentos with our intuitive interface. Browse and explore each region with ease."
+      },
+      "detailed": {
+        "title": "Detailed Information",
+        "description": "Learn about each departamento's unique culture, history, attractions, and local insights from our comprehensive guides."
+      },
+      "navigation": {
+        "title": "Easy Navigation",
+        "description": "Seamlessly navigate between regions and discover hidden gems throughout El Salvador with our user-friendly interface."
+      }
+    },
+    "stats": {
+      "departamentos": "Departamentos",
+      "municipios": "Municipios",
+      "people": "People"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "description": "Start exploring El Salvador in just a few simple steps",
+      "step1": {
+        "title": "Browse Departamentos",
+        "description": "Explore all 14 departamentos of El Salvador and discover their unique features"
+      },
+      "step2": {
+        "title": "Click a Region",
+        "description": "Click on any departamento that interests you to view detailed information"
+      },
+      "step3": {
+        "title": "Discover & Learn",
+        "description": "Explore attractions, culture, history, and plan your next adventure"
+      }
+    },
+    "cta": {
+      "title": "Ready to Explore?",
+      "description": "Start your journey through El Salvador's beautiful departamentos today. Discover hidden gems and create unforgettable memories.",
+      "startButton": "Start Exploring",
+      "learnMoreButton": "Learn More"
+    },
+    "footer": {
+      "description": "Your guide to exploring El Salvador's beautiful departamentos.",
+      "explore": "Explore",
+      "resources": "Resources",
+      "legal": "Legal",
+      "features": "Features",
+      "about": "About",
+      "helpCenter": "Help Center",
+      "contact": "Contact",
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "cookies": "Cookies",
+      "copyright": "© 2024 Localo. All rights reserved."
+    }
+  },
+  "departamento": {
+    "backToMap": "Back to Map",
+    "share": "Share",
+    "badge": "Departamento",
+    "capital": "Capital",
+    "activities": "Activities",
+    "code": "Code",
+    "bestTime": "Best Time",
+    "rating": "Rating",
+    "about": "About",
+    "location": {
+      "title": "Location",
+      "region": "Region",
+      "coordinates": "Coordinates",
+      "area": "Area"
+    },
+    "climate": {
+      "title": "Climate",
+      "temperature": "Temperature",
+      "rainfall": "Rainfall",
+      "bestSeason": "Best Season"
+    },
+    "statistics": {
+      "title": "Statistics",
+      "population": "Population",
+      "municipalities": "Municipalities",
+      "elevation": "Elevation"
+    },
+    "placesToVisit": {
+      "title": "Places to Visit",
+      "viewOnMaps": "View on Google Maps"
+    },
+    "highlights": {
+      "title": "Must-See Highlights"
+    },
+    "activities": {
+      "title": "Tourist Activities",
+      "description": "Discover what you can do in",
+      "allActivities": "All Activities",
+      "adventure": "Adventure",
+      "beaches": "Beaches",
+      "culture": "Culture",
+      "food": "Food",
+      "nature": "Nature",
+      "history": "History",
+      "adventureActivities": "Adventure Activities",
+      "beachesWaterSports": "Beaches & Water Sports",
+      "cultureHeritage": "Culture & Heritage",
+      "foodDining": "Food & Dining",
+      "natureWildlife": "Nature & Wildlife",
+      "historicalSites": "Historical Sites",
+      "activity": "activity",
+      "activities": "activities",
+      "bestTime": "Best Time:",
+      "map": "Map"
+    },
+    "travelTips": {
+      "title": "Travel Tips & Insights",
+      "expertTips": "Expert Tips for",
+      "description": "Make the most of your visit with these insider tips"
+    },
+    "nearby": {
+      "title": "Explore Nearby Departamentos",
+      "description": "Explore activities and attractions",
+      "discover": "Discover"
+    },
+    "cta": {
+      "title": "Ready to Explore",
+      "description": "Start planning your adventure and discover all that",
+      "hasToOffer": "has to offer",
+      "planTrip": "Plan Your Trip",
+      "downloadGuide": "Download Guide"
+    }
+  },
+  "auth": {
+    "or": "Or continue with",
+    "google": {
+      "signIn": "Sign in with Google",
+      "signUp": "Sign up with Google"
+    },
+    "login": {
+      "backToHome": "Back to home",
+      "title": "Welcome back",
+      "description": "Sign in to your account to continue",
+      "email": "Email",
+      "password": "Password",
+      "signIn": "Sign In",
+      "signingIn": "Signing in...",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up",
+      "forgotPassword": "Forgot password?",
+      "error": {
+        "fillFields": "Please fill in all fields",
+        "invalid": "Invalid email or password"
+      }
+    },
+    "forgotPassword": {
+      "backToLogin": "Back to login",
+      "title": "Forgot Password",
+      "description": "Enter your email address and we'll send you a link to reset your password",
+      "email": "Email Address",
+      "sendResetLink": "Send Reset Link",
+      "sending": "Sending...",
+      "success": "If an account exists with this email, a password reset link has been sent.",
+      "error": {
+        "fillFields": "Please enter your email address",
+        "invalidEmail": "Please enter a valid email address"
+      }
+    },
+    "resetPassword": {
+      "backToLogin": "Back to login",
+      "title": "Reset Password",
+      "description": "Enter your new password",
+      "password": "New Password",
+      "confirmPassword": "Confirm New Password",
+      "resetPassword": "Reset Password",
+      "resetting": "Resetting...",
+      "success": "Password reset successfully! Redirecting to login...",
+      "error": {
+        "fillFields": "Please fill in all fields",
+        "passwordsMatch": "Passwords do not match",
+        "passwordLength": "Password must be at least 6 characters",
+        "invalidToken": "Invalid or expired reset token. Please request a new password reset.",
+        "userNotFound": "User not found. Please request a new password reset."
+      }
+    },
+    "register": {
+      "backToHome": "Back to home",
+      "title": "Create an account",
+      "description": "Sign up to start exploring El Salvador",
+      "emailSignup": "Sign up with Email",
+      "fullName": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "createAccount": "Create Account",
+      "creatingAccount": "Creating account...",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "error": {
+        "fillFields": "Please fill in all fields",
+        "invalidEmail": "Please enter a valid email address",
+        "passwordsMatch": "Passwords do not match",
+        "passwordLength": "Password must be at least 6 characters",
+        "userExists": "An account with this email already exists"
+      }
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "dashboard": {
+    "backToHome": "Back to Home",
+    "welcome": "Welcome",
+    "subtitle": "Manage your account and explore El Salvador",
+    "stats": {
+      "visited": "Visited",
+      "departamentos": "Departamentos",
+      "favorites": "Favorites",
+      "places": "Places",
+      "trips": "Upcoming Trips",
+      "upcoming": "Trips"
+    },
+    "account": {
+      "title": "Account Information",
+      "description": "Your personal account details",
+      "name": "Full Name",
+      "email": "Email Address",
+      "editProfile": "Edit Profile"
+    },
+    "actions": {
+      "title": "Quick Actions",
+      "description": "Explore and manage your experience",
+      "explore": "Explore Departamentos",
+      "favorites": "My Favorites",
+      "trips": "My Trips",
+      "guides": "Travel Guides",
+      "subscription": "Subscription"
+    },
+    "activity": {
+      "title": "Recent Activity",
+      "description": "Your latest interactions and discoveries",
+      "visited": "Visited Departamento",
+      "sanSalvador": "San Salvador",
+      "favorited": "Favorited Place",
+      "beach": "El Tunco Beach",
+      "rated": "Rated Attraction",
+      "attraction": "El Boquerón National Park",
+      "recent": "Recent"
+    },
+    "subscription": {
+      "title": "Subscription",
+      "description": "Manage your subscription and access",
+      "status": "Status",
+      "lifetime": "Lifetime",
+      "trial": "Trial",
+      "none": "No Subscription",
+      "trialDays": "{{days}} days remaining",
+      "lifetimeActive": "Lifetime access active",
+      "noSubscription": "No active subscription",
+      "manage": "Manage Subscription"
+    },
+    "payments": {
+      "title": "Payment History",
+      "description": "Your payment transactions",
+      "lifetimeAccess": "Lifetime Access",
+      "completed": "Completed",
+      "pending": "Pending",
+      "failed": "Failed"
+    }
+  },
+  "departamentos": {
+    "ahuachapan": {
+      "name": "Ahuachapán",
+      "capital": "Ahuachapán",
+      "description": "Known as the 'City of Flowers' and famous for its coffee production, thermal springs, and beautiful mountain landscapes."
+    },
+    "cabanas": {
+      "name": "Cabañas",
+      "capital": "Sensuntepeque",
+      "description": "A small departamento known for its agricultural production, traditional crafts, and peaceful rural landscapes."
+    },
+    "chalatenango": {
+      "name": "Chalatenango",
+      "capital": "Chalatenango",
+      "description": "Known for its cool mountain climate, beautiful landscapes, and traditional Salvadoran culture."
+    },
+    "cuscatlan": {
+      "name": "Cuscatlán",
+      "capital": "Cojutepeque",
+      "description": "A central departamento known for its historical significance, traditional markets, and agricultural production."
+    },
+    "la-libertad": {
+      "name": "La Libertad",
+      "capital": "Santa Tecla",
+      "description": "Famous for its beautiful beaches, surfing spots, and vibrant coastal culture."
+    },
+    "la-paz": {
+      "name": "La Paz",
+      "capital": "Zacatecoluca",
+      "description": "A coastal departamento known for its beaches, agricultural production, and traditional Salvadoran culture."
+    },
+    "la-union": {
+      "name": "La Unión",
+      "capital": "La Unión",
+      "description": "A coastal departamento known for its port, beaches, and the Conchagua volcano with panoramic views."
+    },
+    "morazan": {
+      "name": "Morazán",
+      "capital": "San Francisco Gotera",
+      "description": "Known for its historical significance, mountain landscapes, and traditional Salvadoran culture."
+    },
+    "san-miguel": {
+      "name": "San Miguel",
+      "capital": "San Miguel",
+      "description": "The second largest city in El Salvador, known for its vibrant culture, festivals, and the San Miguel volcano."
+    },
+    "san-salvador": {
+      "name": "San Salvador",
+      "capital": "San Salvador",
+      "description": "The capital and largest city of El Salvador, a vibrant urban center with rich history, culture, and modern amenities."
+    },
+    "san-vicente": {
+      "name": "San Vicente",
+      "capital": "San Vicente",
+      "description": "Known for its historical sites, the San Vicente volcano, and traditional Salvadoran culture."
+    },
+    "santa-ana": {
+      "name": "Santa Ana",
+      "capital": "Santa Ana",
+      "description": "The second most important city, known for its beautiful architecture, coffee production, and cultural heritage."
+    },
+    "sonsonate": {
+      "name": "Sonsonate",
+      "capital": "Sonsonate",
+      "description": "Known for its agricultural production, beautiful beaches, and traditional Salvadoran culture."
+    },
+    "usulutan": {
+      "name": "Usulután",
+      "capital": "Usulután",
+      "description": "A coastal departamento known for its beaches, agricultural production, and traditional Salvadoran culture."
+    }
+  },
+  "subscription": {
+    "title": "Subscription & Pricing",
+    "description": "Choose the plan that's right for you",
+    "welcomeMessage": "Welcome! To access departamento pages, please start a free trial or purchase lifetime access.",
+    "backToDashboard": "Back to Dashboard",
+    "currentStatus": "Current Subscription Status",
+    "trialInfo": "You have {{days}} days remaining in your trial",
+    "trialDescription": "Enjoy full access to all features during your trial period",
+    "lifetimeActive": "You have lifetime access!",
+    "lifetimeDescription": "Enjoy unlimited access to all features forever",
+    "status": {
+      "lifetime": "Lifetime",
+      "trial": "Trial",
+      "expired": "Expired",
+      "none": "No Subscription"
+    },
+    "daysLeft": "days left",
+    "plan": {
+      "lifetime": {
+        "title": "Lifetime Access",
+        "subtitle": "One-time payment, lifetime access"
+      }
+    },
+    "oneTime": "one-time",
+    "noRecurring": "No recurring charges, ever",
+    "features": {
+      "lifetime": "Lifetime Access",
+      "lifetimeDesc": "Pay once and enjoy unlimited access forever",
+      "allContent": "All Content",
+      "allContentDesc": "Access to all 14 departamentos and all features",
+      "updates": "Future Updates",
+      "updatesDesc": "Get all future updates and new content at no extra cost",
+      "support": "Priority Support",
+      "supportDesc": "Get priority customer support when you need help"
+    },
+    "startTrial": "Start 7-Day Free Trial",
+    "purchaseLifetime": "Purchase Lifetime Access",
+    "upgradeNow": "Upgrade to Lifetime Now",
+    "alreadySubscribed": "You already have lifetime access!",
+    "processing": "Processing...",
+    "error": {
+      "paymentFailed": "Payment failed. Please try again."
+    },
+    "trialCard": {
+      "title": "7-Day Free Trial",
+      "description": "Try all features risk-free for 7 days",
+      "noPayment": "No payment required",
+      "fullAccess": "Full access to all features",
+      "cancelAnytime": "Cancel anytime during trial"
+    },
+    "security": "Secure payment processing with Stripe. Your payment information is encrypted and secure."
+  },
+  "subscriptionGate": {
+    "title": "Premium Content",
+    "description": "This content requires an active subscription or trial",
+    "feature1": "Unlimited access to all departamentos",
+    "feature2": "Exclusive travel guides and tips",
+    "feature3": "Priority support and updates",
+    "upgrade": "Upgrade Now",
+    "startTrial": "Start Free Trial"
+  }
+}
+

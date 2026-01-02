@@ -1,0 +1,431 @@
+{
+  "nav": {
+    "departamentos": "Departamentos",
+    "features": "Características",
+    "about": "Acerca de",
+    "signIn": "Iniciar Sesión",
+    "getStarted": "Comenzar",
+    "logout": "Cerrar Sesión",
+    "dashboard": "Panel de Control"
+  },
+  "home": {
+    "hero": {
+      "badge": "🇸🇻 Explora El Salvador",
+      "title": "Descubre El Salvador,",
+      "titleHighlight": "Un Departamento a la Vez",
+      "description": "Explora los 14 departamentos de El Salvador. Descubre la cultura única, historia y atracciones de cada región.",
+      "exploreButton": "Explorar Departamentos",
+      "learnMoreButton": "Saber Más"
+    },
+    "departamentos": {
+      "badge": "Explora Todas las Regiones",
+      "title": "Los 14 Departamentos",
+      "description": "Explora cada departamento y descubre atracciones únicas, cultura y actividades",
+      "explore": "Explorar",
+      "available": "Disponible para explorar"
+    },
+    "features": {
+      "title": "¿Por Qué Explorar con Localo?",
+      "description": "Todo lo que necesitas para descubrir la rica cultura y hermosos paisajes de El Salvador.",
+      "interactive": {
+        "title": "Exploración Interactiva",
+        "description": "Navega por los 14 departamentos con nuestra interfaz intuitiva. Explora cada región con facilidad."
+      },
+      "detailed": {
+        "title": "Información Detallada",
+        "description": "Aprende sobre la cultura única, historia, atracciones e información local de cada departamento con nuestras guías completas."
+      },
+      "navigation": {
+        "title": "Navegación Fácil",
+        "description": "Navega sin problemas entre regiones y descubre joyas ocultas en todo El Salvador con nuestra interfaz fácil de usar."
+      }
+    },
+    "stats": {
+      "departamentos": "Departamentos",
+      "municipios": "Municipios",
+      "people": "Personas"
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "description": "Comienza a explorar El Salvador en solo unos pasos simples",
+      "step1": {
+        "title": "Explorar Departamentos",
+        "description": "Explora los 14 departamentos de El Salvador y descubre sus características únicas"
+      },
+      "step2": {
+        "title": "Haz Clic en una Región",
+        "description": "Haz clic en cualquier departamento que te interese para ver información detallada"
+      },
+      "step3": {
+        "title": "Descubre y Aprende",
+        "description": "Explora atracciones, cultura, historia y planifica tu próxima aventura"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Explorar?",
+      "description": "Comienza tu viaje por los hermosos departamentos de El Salvador hoy. Descubre joyas ocultas y crea recuerdos inolvidables.",
+      "startButton": "Comenzar a Explorar",
+      "learnMoreButton": "Saber Más"
+    },
+    "footer": {
+      "description": "Tu guía para explorar los hermosos departamentos de El Salvador.",
+      "explore": "Explorar",
+      "resources": "Recursos",
+      "legal": "Legal",
+      "features": "Características",
+      "about": "Acerca de",
+      "helpCenter": "Centro de Ayuda",
+      "contact": "Contacto",
+      "terms": "Términos",
+      "privacy": "Privacidad",
+      "cookies": "Cookies",
+      "copyright": "© 2024 Localo. Todos los derechos reservados."
+    }
+  },
+  "departamento": {
+    "backToMap": "Volver al Mapa",
+    "share": "Compartir",
+    "badge": "Departamento",
+    "capital": "Capital",
+    "activities": "Actividades",
+    "code": "Código",
+    "bestTime": "Mejor Época",
+    "rating": "Calificación",
+    "about": "Acerca de",
+    "location": {
+      "title": "Ubicación",
+      "region": "Región",
+      "coordinates": "Coordenadas",
+      "area": "Área"
+    },
+    "climate": {
+      "title": "Clima",
+      "temperature": "Temperatura",
+      "rainfall": "Precipitación",
+      "bestSeason": "Mejor Temporada"
+    },
+    "statistics": {
+      "title": "Estadísticas",
+      "population": "Población",
+      "municipalities": "Municipios",
+      "elevation": "Elevación"
+    },
+    "placesToVisit": {
+      "title": "Lugares para Visitar",
+      "viewOnMaps": "Ver en Google Maps"
+    },
+    "highlights": {
+      "title": "Destacados Imperdibles"
+    },
+    "activities": {
+      "title": "Actividades Turísticas",
+      "description": "Descubre qué puedes hacer en",
+      "allActivities": "Todas las Actividades",
+      "adventure": "Aventura",
+      "beaches": "Playas",
+      "culture": "Cultura",
+      "food": "Comida",
+      "nature": "Naturaleza",
+      "history": "Historia",
+      "adventureActivities": "Actividades de Aventura",
+      "beachesWaterSports": "Playas y Deportes Acuáticos",
+      "cultureHeritage": "Cultura y Patrimonio",
+      "foodDining": "Comida y Restaurantes",
+      "natureWildlife": "Naturaleza y Vida Silvestre",
+      "historicalSites": "Sitios Históricos",
+      "activity": "actividad",
+      "activities": "actividades",
+      "bestTime": "Mejor Época:",
+      "map": "Mapa"
+    },
+    "travelTips": {
+      "title": "Consejos e Información de Viaje",
+      "expertTips": "Consejos de Expertos para",
+      "description": "Aprovecha al máximo tu visita con estos consejos internos"
+    },
+    "nearby": {
+      "title": "Explora Departamentos Cercanos",
+      "description": "Explora actividades y atracciones",
+      "discover": "Descubrir"
+    },
+    "cta": {
+      "title": "¿Listo para Explorar",
+      "description": "Comienza a planificar tu aventura y descubre todo lo que",
+      "hasToOffer": "tiene para ofrecer",
+      "planTrip": "Planificar tu Viaje",
+      "downloadGuide": "Descargar Guía"
+    }
+  },
+  "auth": {
+    "or": "O continúa con",
+    "google": {
+      "signIn": "Iniciar sesión con Google",
+      "signUp": "Registrarse con Google"
+    },
+    "login": {
+      "backToHome": "Volver al inicio",
+      "title": "Bienvenido de nuevo",
+      "description": "Inicia sesión en tu cuenta para continuar",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "signIn": "Iniciar Sesión",
+      "signingIn": "Iniciando sesión...",
+      "noAccount": "¿No tienes una cuenta?",
+      "signUp": "Regístrate",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "error": {
+        "fillFields": "Por favor completa todos los campos",
+        "invalid": "Correo electrónico o contraseña inválidos"
+      }
+    },
+    "forgotPassword": {
+      "backToLogin": "Volver al inicio de sesión",
+      "title": "Olvidé mi Contraseña",
+      "description": "Ingresa tu correo electrónico y te enviaremos un enlace para restablecer tu contraseña",
+      "email": "Correo Electrónico",
+      "sendResetLink": "Enviar Enlace de Restablecimiento",
+      "sending": "Enviando...",
+      "success": "Si existe una cuenta con este correo electrónico, se ha enviado un enlace para restablecer la contraseña.",
+      "error": {
+        "fillFields": "Por favor ingresa tu correo electrónico",
+        "invalidEmail": "Por favor ingresa un correo electrónico válido"
+      }
+    },
+    "resetPassword": {
+      "backToLogin": "Volver al inicio de sesión",
+      "title": "Restablecer Contraseña",
+      "description": "Ingresa tu nueva contraseña",
+      "password": "Nueva Contraseña",
+      "confirmPassword": "Confirmar Nueva Contraseña",
+      "resetPassword": "Restablecer Contraseña",
+      "resetting": "Restableciendo...",
+      "success": "¡Contraseña restablecida exitosamente! Redirigiendo al inicio de sesión...",
+      "error": {
+        "fillFields": "Por favor completa todos los campos",
+        "passwordsMatch": "Las contraseñas no coinciden",
+        "passwordLength": "La contraseña debe tener al menos 6 caracteres",
+        "invalidToken": "Token de restablecimiento inválido o expirado. Por favor solicita un nuevo restablecimiento de contraseña.",
+        "userNotFound": "Usuario no encontrado. Por favor solicita un nuevo restablecimiento de contraseña."
+      }
+    },
+    "register": {
+      "backToHome": "Volver al inicio",
+      "title": "Crear una cuenta",
+      "description": "Regístrate para comenzar a explorar El Salvador",
+      "emailSignup": "Regístrate con Correo Electrónico",
+      "fullName": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar Contraseña",
+      "createAccount": "Crear Cuenta",
+      "creatingAccount": "Creando cuenta...",
+      "hasAccount": "¿Ya tienes una cuenta?",
+      "signIn": "Iniciar sesión",
+      "error": {
+        "fillFields": "Por favor completa todos los campos",
+        "invalidEmail": "Por favor ingresa un correo electrónico válido",
+        "passwordsMatch": "Las contraseñas no coinciden",
+        "passwordLength": "La contraseña debe tener al menos 6 caracteres",
+        "userExists": "Ya existe una cuenta con este correo electrónico"
+      }
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error"
+  },
+  "dashboard": {
+    "backToHome": "Volver al Inicio",
+    "welcome": "Bienvenido",
+    "subtitle": "Administra tu cuenta y explora El Salvador",
+    "stats": {
+      "visited": "Visitados",
+      "departamentos": "Departamentos",
+      "favorites": "Favoritos",
+      "places": "Lugares",
+      "trips": "Próximos Viajes",
+      "upcoming": "Viajes"
+    },
+    "account": {
+      "title": "Información de la Cuenta",
+      "description": "Los detalles de tu cuenta personal",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "editProfile": "Editar Perfil"
+    },
+    "actions": {
+      "title": "Acciones Rápidas",
+      "description": "Explora y administra tu experiencia",
+      "explore": "Explorar Departamentos",
+      "favorites": "Mis Favoritos",
+      "trips": "Mis Viajes",
+      "guides": "Guías de Viaje",
+      "subscription": "Suscripción"
+    },
+    "activity": {
+      "title": "Actividad Reciente",
+      "description": "Tus últimas interacciones y descubrimientos",
+      "visited": "Visitó Departamento",
+      "sanSalvador": "San Salvador",
+      "favorited": "Lugar Favorito",
+      "beach": "Playa El Tunco",
+      "rated": "Atracción Calificada",
+      "attraction": "Parque Nacional El Boquerón",
+      "recent": "Reciente"
+    },
+    "subscription": {
+      "title": "Suscripción",
+      "description": "Administra tu suscripción y acceso",
+      "status": "Estado",
+      "lifetime": "De Por Vida",
+      "trial": "Prueba",
+      "none": "Sin Suscripción",
+      "trialDays": "{{days}} días restantes",
+      "lifetimeActive": "Acceso de por vida activo",
+      "noSubscription": "No hay suscripción activa",
+      "manage": "Administrar Suscripción"
+    },
+    "payments": {
+      "title": "Historial de Pagos",
+      "description": "Tus transacciones de pago",
+      "lifetimeAccess": "Acceso de Por Vida",
+      "completed": "Completado",
+      "pending": "Pendiente",
+      "failed": "Fallido"
+    }
+  },
+  "departamentos": {
+    "ahuachapan": {
+      "name": "Ahuachapán",
+      "capital": "Ahuachapán",
+      "description": "Conocida como la 'Ciudad de las Flores' y famosa por su producción de café, aguas termales y hermosos paisajes montañosos."
+    },
+    "cabanas": {
+      "name": "Cabañas",
+      "capital": "Sensuntepeque",
+      "description": "Un pequeño departamento conocido por su producción agrícola, artesanías tradicionales y paisajes rurales pacíficos."
+    },
+    "chalatenango": {
+      "name": "Chalatenango",
+      "capital": "Chalatenango",
+      "description": "Conocido por su clima fresco de montaña, hermosos paisajes y cultura tradicional salvadoreña."
+    },
+    "cuscatlan": {
+      "name": "Cuscatlán",
+      "capital": "Cojutepeque",
+      "description": "Un departamento central conocido por su importancia histórica, mercados tradicionales y producción agrícola."
+    },
+    "la-libertad": {
+      "name": "La Libertad",
+      "capital": "Santa Tecla",
+      "description": "Famoso por sus hermosas playas, lugares de surf y vibrante cultura costera."
+    },
+    "la-paz": {
+      "name": "La Paz",
+      "capital": "Zacatecoluca",
+      "description": "Un departamento costero conocido por sus playas, producción agrícola y cultura tradicional salvadoreña."
+    },
+    "la-union": {
+      "name": "La Unión",
+      "capital": "La Unión",
+      "description": "Un departamento costero conocido por su puerto, playas y el volcán Conchagua con vistas panorámicas."
+    },
+    "morazan": {
+      "name": "Morazán",
+      "capital": "San Francisco Gotera",
+      "description": "Conocido por su importancia histórica, paisajes montañosos y cultura tradicional salvadoreña."
+    },
+    "san-miguel": {
+      "name": "San Miguel",
+      "capital": "San Miguel",
+      "description": "La segunda ciudad más grande de El Salvador, conocida por su vibrante cultura, festivales y el volcán San Miguel."
+    },
+    "san-salvador": {
+      "name": "San Salvador",
+      "capital": "San Salvador",
+      "description": "La capital y ciudad más grande de El Salvador, un centro urbano vibrante con rica historia, cultura y comodidades modernas."
+    },
+    "san-vicente": {
+      "name": "San Vicente",
+      "capital": "San Vicente",
+      "description": "Conocido por sus sitios históricos, el volcán San Vicente y la cultura tradicional salvadoreña."
+    },
+    "santa-ana": {
+      "name": "Santa Ana",
+      "capital": "Santa Ana",
+      "description": "La segunda ciudad más importante, conocida por su hermosa arquitectura, producción de café y patrimonio cultural."
+    },
+    "sonsonate": {
+      "name": "Sonsonate",
+      "capital": "Sonsonate",
+      "description": "Conocido por su producción agrícola, hermosas playas y cultura tradicional salvadoreña."
+    },
+    "usulutan": {
+      "name": "Usulután",
+      "capital": "Usulután",
+      "description": "Un departamento costero conocido por sus playas, producción agrícola y cultura tradicional salvadoreña."
+    }
+  },
+  "subscription": {
+    "title": "Suscripción y Precios",
+    "description": "Elige el plan que mejor se adapte a ti",
+    "welcomeMessage": "¡Bienvenido! Para acceder a las páginas de departamentos, por favor inicia una prueba gratuita o compra acceso de por vida.",
+    "backToDashboard": "Volver al Panel",
+    "currentStatus": "Estado de Suscripción Actual",
+    "trialInfo": "Te quedan {{days}} días en tu prueba",
+    "trialDescription": "Disfruta de acceso completo a todas las funciones durante tu período de prueba",
+    "lifetimeActive": "¡Tienes acceso de por vida!",
+    "lifetimeDescription": "Disfruta de acceso ilimitado a todas las funciones para siempre",
+    "status": {
+      "lifetime": "De Por Vida",
+      "trial": "Prueba",
+      "expired": "Expirado",
+      "none": "Sin Suscripción"
+    },
+    "daysLeft": "días restantes",
+    "plan": {
+      "lifetime": {
+        "title": "Acceso de Por Vida",
+        "subtitle": "Pago único, acceso de por vida"
+      }
+    },
+    "oneTime": "único",
+    "noRecurring": "Sin cargos recurrentes, nunca",
+    "features": {
+      "lifetime": "Acceso de Por Vida",
+      "lifetimeDesc": "Paga una vez y disfruta de acceso ilimitado para siempre",
+      "allContent": "Todo el Contenido",
+      "allContentDesc": "Acceso a los 14 departamentos y todas las funciones",
+      "updates": "Actualizaciones Futuras",
+      "updatesDesc": "Obtén todas las actualizaciones futuras y nuevo contenido sin costo adicional",
+      "support": "Soporte Prioritario",
+      "supportDesc": "Obtén soporte prioritario al cliente cuando lo necesites"
+    },
+    "startTrial": "Iniciar Prueba Gratuita de 7 Días",
+    "purchaseLifetime": "Comprar Acceso de Por Vida",
+    "upgradeNow": "Actualizar a Por Vida Ahora",
+    "alreadySubscribed": "¡Ya tienes acceso de por vida!",
+    "processing": "Procesando...",
+    "error": {
+      "paymentFailed": "El pago falló. Por favor intenta de nuevo."
+    },
+    "trialCard": {
+      "title": "Prueba Gratuita de 7 Días",
+      "description": "Prueba todas las funciones sin riesgo durante 7 días",
+      "noPayment": "No se requiere pago",
+      "fullAccess": "Acceso completo a todas las funciones",
+      "cancelAnytime": "Cancela en cualquier momento durante la prueba"
+    },
+    "security": "Procesamiento de pagos seguro con Stripe. Tu información de pago está encriptada y segura."
+  },
+  "subscriptionGate": {
+    "title": "Contenido Premium",
+    "description": "Este contenido requiere una suscripción activa o prueba",
+    "feature1": "Acceso ilimitado a todos los departamentos",
+    "feature2": "Guías de viaje y consejos exclusivos",
+    "feature3": "Soporte prioritario y actualizaciones",
+    "upgrade": "Actualizar Ahora",
+    "startTrial": "Iniciar Prueba Gratuita"
+  }
+}
+

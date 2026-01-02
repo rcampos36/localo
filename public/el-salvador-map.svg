@@ -1,0 +1,173 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- El Salvador Outline -->
+  <g id="el-salvador-outline">
+    <!-- Ahuachapán -->
+    <path 
+      id="ahuachapan" 
+      data-name="Ahuachapán"
+      data-id="ahuachapan"
+      d="M 50 120 L 180 120 L 180 200 L 50 200 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- Santa Ana -->
+    <path 
+      id="santa-ana" 
+      data-name="Santa Ana"
+      data-id="santa-ana"
+      d="M 180 100 L 320 100 L 320 200 L 180 200 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- Sonsonate -->
+    <path 
+      id="sonsonate" 
+      data-name="Sonsonate"
+      data-id="sonsonate"
+      d="M 50 200 L 200 200 L 200 280 L 50 280 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- La Libertad -->
+    <path 
+      id="la-libertad" 
+      data-name="La Libertad"
+      data-id="la-libertad"
+      d="M 200 280 L 380 280 L 380 380 L 200 380 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- San Salvador -->
+    <path 
+      id="san-salvador" 
+      data-name="San Salvador"
+      data-id="san-salvador"
+      d="M 320 200 L 450 200 L 450 300 L 320 300 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- Chalatenango -->
+    <path 
+      id="chalatenango" 
+      data-name="Chalatenango"
+      data-id="chalatenango"
+      d="M 320 100 L 500 100 L 500 200 L 320 200 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- Cuscatlán -->
+    <path 
+      id="cuscatlan" 
+      data-name="Cuscatlán"
+      data-id="cuscatlan"
+      d="M 450 250 L 580 250 L 580 350 L 450 350 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- La Paz -->
+    <path 
+      id="la-paz" 
+      data-name="La Paz"
+      data-id="la-paz"
+      d="M 450 350 L 580 350 L 580 450 L 450 450 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- San Vicente -->
+    <path 
+      id="san-vicente" 
+      data-name="San Vicente"
+      data-id="san-vicente"
+      d="M 500 300 L 630 300 L 630 400 L 500 400 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- Cabañas -->
+    <path 
+      id="cabanas" 
+      data-name="Cabañas"
+      data-id="cabanas"
+      d="M 580 200 L 700 200 L 700 300 L 580 300 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- Usulután -->
+    <path 
+      id="usulutan" 
+      data-name="Usulután"
+      data-id="usulutan"
+      d="M 630 400 L 750 400 L 750 500 L 630 500 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- San Miguel -->
+    <path 
+      id="san-miguel" 
+      data-name="San Miguel"
+      data-id="san-miguel"
+      d="M 630 300 L 750 300 L 750 400 L 630 400 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- Morazán -->
+    <path 
+      id="morazan" 
+      data-name="Morazán"
+      data-id="morazan"
+      d="M 700 250 L 800 250 L 800 350 L 700 350 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+    
+    <!-- La Unión -->
+    <path 
+      id="la-union" 
+      data-name="La Unión"
+      data-id="la-union"
+      d="M 750 450 L 800 450 L 800 550 L 750 550 Z" 
+      fill="#60a5fa" 
+      stroke="#1e40af" 
+      stroke-width="2.5"
+      class="departamento-region"
+    />
+  </g>
+</svg>
+
