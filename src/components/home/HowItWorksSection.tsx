@@ -7,7 +7,7 @@ export function HowItWorksSection() {
   const { t } = useLanguage();
 
   return (
-    <section className="container mx-auto px-4 py-20">
+    <section id="about" className="container mx-auto px-4 py-20">
       <div className="text-center mb-16">
         <h2 className="text-4xl font-bold text-gray-900 mb-4">{t("home.howItWorks.title")}</h2>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
@@ -60,4 +60,5 @@ export function HowItWorksSection() {
     </section>
   );
 }
+
 

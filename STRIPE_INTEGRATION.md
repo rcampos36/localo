@@ -198,3 +198,4 @@ If you prefer PayPal, you can integrate PayPal Checkout similarly:
 3. Handle PayPal webhooks for payment confirmation
 4. Update subscription status accordingly
 
+

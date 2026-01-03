@@ -6,6 +6,7 @@ import Link from "next/link";
 import { useAuth } from "@/contexts/AuthContext";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { LanguageSelector } from "@/components/LanguageSelector";
+import { smoothScrollTo } from "@/lib/utils";
 
 interface NavigationProps {
   onLogout?: () => void;
@@ -14,6 +15,15 @@ interface NavigationProps {
 export function Navigation({ onLogout }: NavigationProps) {
   const { user, isAuthenticated, isAdmin } = useAuth();
   const { t } = useLanguage();
+
+  const handleSmoothScroll = (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
+    // Only handle smooth scroll for hash links
+    if (href.startsWith('#')) {
+      e.preventDefault();
+      const targetId = href.substring(1);
+      smoothScrollTo(targetId, 80); // 80px offset for sticky navigation
+    }
+  };
 
   return (
     <nav className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60">
@@ -24,15 +34,27 @@ export function Navigation({ onLogout }: NavigationProps) {
             <span className="text-2xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors">Localo</span>
           </Link>
           <div className="hidden md:flex items-center gap-6">
-            <a href="#departamentos" className="text-gray-700 hover:text-blue-600 transition-all duration-200 hover:scale-105 relative group">
+            <a 
+              href="#departamentos" 
+              onClick={(e) => handleSmoothScroll(e, "#departamentos")}
+              className="text-gray-700 hover:text-blue-600 transition-all duration-200 hover:scale-105 relative group"
+            >
               {t("nav.departamentos")}
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 transition-all duration-200 group-hover:w-full"></span>
             </a>
-            <a href="#features" className="text-gray-700 hover:text-blue-600 transition-all duration-200 hover:scale-105 relative group">
+            <a 
+              href="#features" 
+              onClick={(e) => handleSmoothScroll(e, "#features")}
+              className="text-gray-700 hover:text-blue-600 transition-all duration-200 hover:scale-105 relative group"
+            >
               {t("nav.features")}
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 transition-all duration-200 group-hover:w-full"></span>
             </a>
-            <a href="#about" className="text-gray-700 hover:text-blue-600 transition-all duration-200 hover:scale-105 relative group">
+            <a 
+              href="#about" 
+              onClick={(e) => handleSmoothScroll(e, "#about")}
+              className="text-gray-700 hover:text-blue-600 transition-all duration-200 hover:scale-105 relative group"
+            >
               {t("nav.about")}
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 transition-all duration-200 group-hover:w-full"></span>
             </a>
@@ -77,4 +99,5 @@ export function Navigation({ onLogout }: NavigationProps) {
     </nav>
   );
 }
+
 

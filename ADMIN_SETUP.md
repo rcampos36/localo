@@ -60,3 +60,4 @@
   console.log("Current user role:", currentUser?.role); // Should be "admin"
   ```
 
+

@@ -4,9 +4,15 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { ArrowRight } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { smoothScrollTo } from "@/lib/utils";
 
 export function HeroSection() {
   const { t } = useLanguage();
+
+  const handleScrollToDepartamentos = (e: React.MouseEvent<HTMLAnchorElement>) => {
+    e.preventDefault();
+    smoothScrollTo("departamentos", 80);
+  };
 
   return (
     <section className="relative w-full h-screen min-h-[600px] overflow-hidden">
@@ -39,7 +45,7 @@ export function HeroSection() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="text-lg px-8 bg-white text-gray-900 hover:bg-gray-100" asChild>
-              <a href="#departamentos" className="inline-flex items-center">
+              <a href="#departamentos" onClick={handleScrollToDepartamentos} className="inline-flex items-center">
                 {t("home.hero.exploreButton")}
                 <ArrowRight className="h-5 w-5" />
               </a>
@@ -53,4 +59,5 @@ export function HeroSection() {
     </section>
   );
 }
+
 
